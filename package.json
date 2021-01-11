@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "fibers": "^5.0.0",
     "sass": "^1.32.2"
+  },
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.2.10",
+    "sass-loader": "^10.1.0"
   }
 }
